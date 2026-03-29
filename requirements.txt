@@ -1,6 +1,6 @@
 streamlit
 pandas
-openai
+google-generativeai
 matplotlib
 seaborn
 python-dotenv
